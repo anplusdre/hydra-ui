@@ -5,6 +5,7 @@ Production-ready React component library and dashboard built with Next.js, TypeS
 **Live demo → [creators.ocudeus.com](https://creators.ocudeus.com)**
 
 > Source code is private. This repo exists as a portfolio reference.
+> All example pages is written by Claude Code with specific instructions on how to use this Component Library.
 
 ---
 
