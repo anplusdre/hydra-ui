@@ -1,9 +1,8 @@
  ---
-  # Hydra — KOL Campaign Management Dashboard
+  # Hydra UI — Dashboard. 
 
-  A web application for brands to discover influencers (KOLs), plan campaigns, and track activity — built as a SaaS-style
-  internal tool.
-
+  Production-ready React component library 
+  
   **Live demo → [creators.ocudeus.com](https://creators.ocudeus.com)**
 
   > Source code is private. This repo exists as a portfolio reference.
